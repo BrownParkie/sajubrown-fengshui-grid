@@ -1,0 +1,9 @@
+{
+ "version": 1,
+ "cells": 179394,
+ "bytes": 2152754,
+ "sha256": "87aca5f40733c93bd1f1fc33e12b408af0ce73a48c9cfce4c27914ad92d1bdee",
+ "source": "south-korea-latest.osm.pbf",
+ "built": "2026-09-28",
+ "license": "ODbL © OpenStreetMap contributors"
+}
